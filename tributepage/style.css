@@ -5,7 +5,9 @@
     height: auto;
 }
 
-
+#img-caption p{
+    color: white;
+}
 
 
 #picture{
