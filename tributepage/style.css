@@ -6,9 +6,8 @@
 }
 
 
-#title{
-    color:white;
-}
+
+
 #picture{
 
     display: flex;
@@ -16,10 +15,6 @@
     align-items: center;
     flex-direction: column;
  }
-
-img-caption p{
-    color: white;
-}
 
 
 #picture img{
@@ -56,10 +51,6 @@ font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', s
   
     font-size: 1rem;
     font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; 
-}
-
-#img-caption{
-    color: white;
 }
 
 
